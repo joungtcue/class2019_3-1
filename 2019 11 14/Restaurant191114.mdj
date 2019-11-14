@@ -44,7 +44,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFuaFqbdejIwp8="
 							},
-							"name": "SequenceDiagram1",
+							"name": "loop 손님 수만큼 반복",
 							"tags": [
 								{
 									"_type": "Tag",
@@ -76,9 +76,9 @@
 											"font": "Arial;13;0",
 											"left": 134.97900390625,
 											"top": 93,
-											"width": 115.9052734375,
+											"width": 127.41357421875,
 											"height": 13,
-											"text": "SequenceDiagram1"
+											"text": "loop 손님 수만큼 반복"
 										},
 										{
 											"_type": "LabelView",
